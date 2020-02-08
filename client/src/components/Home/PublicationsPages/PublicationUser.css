@@ -1,0 +1,76 @@
+.ad-title {
+  color: #ba931b;
+  font-size: 36px;
+  font-weight: bold;
+}
+.titl {
+  font-size: 42px !important;
+  margin-top: 12px !important;
+}
+.ad-descrp {
+  font-size: 28px;
+}
+.connexion {
+  color: #eb9916;
+  font-size: 18px;
+}
+.price {
+  font-size: 20px;
+  font-weight: bold;
+}
+.commentaire {
+  border: solid 1px black;
+}
+.secondary {
+  font-family: "Times New Roman", Times, serif;
+  color: black !important;
+}
+.marque-pub {
+  display: flex;
+}
+.text-user {
+  font-family: serif;
+}
+
+.card {
+  box-shadow: 5px 5px 5px #ba931b !important;
+  height: 500px;
+}
+.lastpub {
+  text-align: center;
+}
+.prixx {
+  margin-right: 325px;
+}
+.our-pubs {
+  margin-top: -16px;
+  color: black;
+  font: italic bold 16px/61px Georgia, serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.desc {
+  margin-bottom: -14px;
+  font-family: "Times New Roman", Times, serif;
+}
+.box-pub {
+  border: black 1px solid;
+  margin-top: 10px;
+  border-radius: 7px;
+  width: 950px;
+}
+.btn-consult {
+  background-image: linear-gradient(315deg, #ba931b 47%, #ba9283 74%);
+  border: solid 2px #ba931b !important;
+  color: white !important;
+
+  font-family: serif;
+}
+
+.text-user {
+  font-family: serif;
+}
+
+.spiner {
+  margin-left: 50% !important;
+}

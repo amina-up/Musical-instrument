@@ -1,0 +1,11 @@
+.back {
+  font-family: serif;
+  background-image: url("https://images.pexels.com/photos/6966/abstract-music-rock-bw.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+.back p,
+h2 {
+  font-family: serif;
+  margin-top: 50px;
+  margin-right: 80px;
+  margin-left: 80px;
+}

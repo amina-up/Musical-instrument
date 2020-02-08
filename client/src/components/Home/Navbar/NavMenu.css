@@ -1,0 +1,34 @@
+/* @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap"); */
+
+.home-nav {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 19px;
+  background-color: #ba933e !important;
+
+  color: white;
+  font-weight: bolder;
+}
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: black !important;
+}
+.logo-image {
+  border-radius: 50%;
+  width: 80px;
+}
+.text-user {
+  color: black;
+}
+
+.hover-text:hover {
+  background-color: #ba933e !important;
+  opacity: 0.8 !important;
+  color: black !important;
+  font-size: 19px;
+}
+.spiner {
+  margin-left: 50% !important;
+}

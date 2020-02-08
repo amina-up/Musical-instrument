@@ -1,0 +1,70 @@
+/* @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap"); */
+
+.card-title {
+  font-size: 21px;
+  font-weight: bold;
+  text-decoration: overline;
+  color: #ba931b;
+  font-family: serif;
+}
+
+.card-category {
+  font-size: 19px;
+  font-weight: bold;
+  white-space: nowrap;
+  color: #ba931b;
+  font-family: serif;
+  text-align: center !important;
+}
+
+.card-price {
+  font-size: 26px;
+  font-weight: bold;
+  text-align: center !important;
+  font-family: serif;
+}
+
+.go-to-btn {
+  border: solid 2px #ba931b !important;
+  color: white !important;
+
+  font-family: serif;
+  background-image: linear-gradient(315deg, #ba931b 47%, #ba9283 74%);
+}
+
+.see-more-ads {
+  border: none !important;
+  background-color: transparent !important;
+  color: #08c8f6 !important;
+  font-size: 36px !important;
+  font-weight: bold !important;
+  font-family: serif;
+}
+.btn-consult {
+  background-image: linear-gradient(315deg, #ba931b 47%, #ba9283 74%);
+  border: solid 2px #ba931b !important;
+  color: white !important;
+  text-align: center;
+  margin-left: 71px;
+  font-family: serif;
+}
+.text-user {
+  font-family: serif;
+}
+
+.card {
+  box-shadow: 5px 5px 5px #ba931b !important;
+  height: 534px !important;
+}
+.lastpub {
+  text-align: center;
+  font: italic bold 33px/51px Georgia, serif;
+}
+.lastpub:hover {
+  color: #ba931b;
+  cursor: pointer;
+}
+
+.spiner {
+  margin-left: 50% !important;
+}

@@ -1,0 +1,127 @@
+.navbar-admin {
+  background-color: #2876f9;
+  background-image: linear-gradient(315deg, #2876f9 0%, #6d17cb 74%);
+}
+.nav-item-admin .fas:hover {
+  cursor: pointer;
+  color: black !important;
+}
+
+.dashbord {
+  font-size: 6vh !important;
+  font-weight: bolder !important;
+  color: white !important;
+}
+.card-model {
+  border-color: #2876f9;
+  border-radius: 8% !important;
+}
+.card-model-icon {
+  background-color: #2876f9;
+  background-image: linear-gradient(315deg, #2876f9 0%, #6d17cb 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card-model-badge {
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  font-size: 3vh !important;
+}
+.card-model-text {
+  font-size: 4vh !important;
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card-model-button {
+  border: none !important;
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #ba931b 47%, #ba9283 74%);
+}
+
+.table-hover tbody tr td .fa-trash {
+  color: #f53844;
+}
+
+.table-hover tbody tr td {
+  font-size: 20px;
+}
+.table-hover tbody tr td .fa-edit {
+  color: #009ffd;
+}
+.table-hover tbody tr:hover td i {
+  color: white;
+}
+
+.table-hover tbody tr td {
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+.car-man {
+  font-size: 28px;
+  font-weight: bold;
+  color: black;
+}
+.category-cards:hover .car-man {
+  font-size: 28px;
+  font-weight: bold;
+  color: #2876f9;
+}
+
+.droprole {
+  background-color: #e9e9e9 !important;
+}
+.droprole:hover {
+  background-color: #ba933e !important;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.image-carousel {
+  height: 497px !important;
+}
+
+.spiner {
+  margin-left: 50% !important;
+}
+.transitions {
+  margin-bottom: 40px;
+  font: italic bold 31px/61px Georgia, serif;
+  padding: 35px 177px;
+
+  letter-spacing: 0.018em;
+  line-height: 1.1;
+}
+.dream-Electronics {
+  margin-bottom: 21px;
+  font: italic bold 25px/51px Georgia, serif;
+  padding: -1px 63px;
+  font-size: 21px !important;
+  margin-left: 433px;
+  letter-spacing: 0.018em;
+  line-height: 1.1;
+}
+.dream-Electronic {
+  margin-bottom: 192px;
+  font: italic bold 25px/51px Georgia, serif;
+  padding: -1px 63px;
+  font-size: 21px !important;
+  margin-left: 603px;
+  letter-spacing: 0.018em;
+  line-height: 1.1;
+}

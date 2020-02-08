@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://project1:project1@tmcluster-cagwt.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "sarahsoltani"
+}

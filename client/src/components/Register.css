@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+.cont {
+  width: 100% !important;
+  height: 1330px !important;
+  position: fixed;
+
+  left: 50%;
+  margin-top: 450px;
+  border-radius: 5px;
+  transform: translate(-50%, -50%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url("https://images.pexels.com/photos/15919/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=750&w=1260");
+}
+.inscription {
+  color: #eb9916;
+  font-size: 18px;
+}
+.text-cente {
+  color: white;
+  margin-right: 212px;
+  font: italic bold 16px/28px Georgia, serif;
+}
+.text-center {
+  color: white;
+  font: italic bold 31px/61px Georgia, serif;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-text {
+  border: 0 !important;
+  border-bottom: 1px solid #495057 !important;
+}
+
+.input-text::placeholder {
+  font-family: "Roboto";
+}
+input:focus::-webkit-input-placeholder {
+  color: white;
+}
+.input-text:focus {
+  outline: 0px !important;
+  -webkit-appearance: none;
+  box-shadow: none !important;
+}
+.fas1 {
+  position: absolute;
+  left: 0;
+  padding: 10.5px;
+  margin-left: -20px;
+  opacity: 0.6;
+  color: black;
+
+  font-size: 26px;
+}
+
+.form-group {
+  line-height: 1;
+}
+.containerr {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  padding-right: 297px !important;
+  padding-left: 270px !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
+  padding-top: 240px;
+}
+.btn-register {
+  background-color: #ffc13c !important;
+}
