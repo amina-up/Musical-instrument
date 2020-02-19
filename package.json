@@ -1,14 +1,14 @@
 {
-  "name": "go-annonce",
+  "name": "instrument-musicale",
   "version": "1.0.0",
-  "description": "annonce voitures",
+  "description": "annonces des instruments musicales",
   "main": "server.js",
   "scripts": {
     "server": "nodemon server",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server \" \"npm run client \""
   },
-  "author": "Aymen Ayadi",
+  "author": "Amina Laabidi",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
